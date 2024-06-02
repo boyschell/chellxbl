@@ -16,7 +16,7 @@ git()
 dbb()
 
 # Heroku APP
-heroku()
+#heroku()
 
 # Load Sudo Users from DB
 sudo()
