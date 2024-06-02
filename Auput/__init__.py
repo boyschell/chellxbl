@@ -2,7 +2,7 @@ from Auput.core.bot import AuputBot
 from Auput.core.dir import dirr
 from Auput.core.git import git
 from Auput.core.userbot import Userbot
-from Auput.misc import dbb, heroku, sudo
+#from Auput.misc import dbb, heroku, sudo
 
 from .logging import LOGGER
 
